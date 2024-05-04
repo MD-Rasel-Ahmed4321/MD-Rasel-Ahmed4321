@@ -10,4 +10,4 @@ I'm Sheikh Russel, a passionate software developer with a love for creating impa
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I frequently make mistakes but then learn a lot!
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) and [Twitter](https://twitter.com/your-twitter-profile).
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) and [Twitter](https://twitter.com/SheikhRussell7).
